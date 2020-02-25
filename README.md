@@ -1,4 +1,4 @@
-# AER202
+# AER202: Aircraft Identification Using Machine Learning
 
 AER202 is a tool that uses machine learning to automatically identify planes 
 from a photo. The goal is to assist plane-spotters by identifying subtle 
