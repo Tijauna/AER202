@@ -4,7 +4,9 @@ AER202 is a tool that uses machine learning to automatically identify planes
 from a photo. The goal is to assist plane-spotters by identifying subtle 
 airplane characteristics that might be otherwise difficult to spot by eye. 
 Applying neural networks to this problem could greatly increase the 
-identification accuracy and speed. 
+identification accuracy and speed. Originally created for ECE324 course.
+
+Final Project Report: http://www.eecg.utoronto.ca/~jayar/ece324/2019/aer202.pdf
 
 Currently the tool is trained on:
 
