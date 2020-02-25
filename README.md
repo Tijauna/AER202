@@ -6,7 +6,8 @@ airplane characteristics that might be otherwise difficult to spot by eye.
 Applying neural networks to this problem could greatly increase the 
 identification accuracy and speed. Originally created for ECE324 course.
 
-Final Project Report: http://www.eecg.utoronto.ca/~jayar/ece324/2019/aer202.pdf
+Project Presentation: https://www.youtube.com/watch?v=ESnMfKQtlwE&feature=emb_title
+Final Report: http://www.eecg.utoronto.ca/~jayar/ece324/2019/aer202.pdf
 
 Currently the tool is trained on:
 
